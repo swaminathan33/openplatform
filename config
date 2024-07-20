@@ -1,1 +1,3 @@
-database              : postgresql://postgres:admin@localhost:5432/demodb
+// database              : postgresql://postgres:admin@localhost:5432/demodb
+
+database                 : postgresql://demodb_zawp_user:gboFseLq3D3RJBoYSFOUTrJqqsLSwKkZ@dpg-cqdg940gph6c73a5k35g-a.oregon-postgres.render.com/demodb_zawp
