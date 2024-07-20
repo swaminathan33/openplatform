@@ -29,4 +29,6 @@ options.servicemode = process.argv.includes('--service') || process.argv.include
 // options.cluster = 'auto';
 // options.limit = 10; // max 10. threads (works only with "auto" scaling)
 
+options.port = process.env.PORT || 8000;
+
 F.run(options);

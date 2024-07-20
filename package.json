@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "total5": "latest",
-    "querybuilderpg": "latest"
+    "querybuilderpg": "latest",
+    "total5": "^0.0.3"
   },
   "scripts": {
     "start": "node index.js 8000"
